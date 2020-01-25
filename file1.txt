@@ -1,5 +1,1 @@
-New line added
-this is file1
-this is second line of file 1
-
-and this ends here
+This is file1 on brach 1
